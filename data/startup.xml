@@ -2,11 +2,10 @@
 
 
 <category>
-	<pattern>LOAD AIML B</pattern>
+	<pattern>LOAD AIML MANANA</pattern>
 	<template>
 	        <!-- Load standard AIML set -->
-        	<learn>*.aiml</learn>
-    
+        	<learn>manana.aiml</learn>
 	</template>
 </category>
 </aiml>
